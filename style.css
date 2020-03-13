@@ -1,0 +1,75 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header{
+  background-image: url('https://cdn.wallpaperhub.app/cloudcache/1/b/5/8/e/f/1b58ef6e3d36a42e01992accf5c52d6eea244353.jpg');
+  background-size: cover;
+  background-attachment: scroll;
+  width: auto;
+  height: 50px;
+  position: relative;
+
+}
+body{
+  background-color: grey;
+}
+.page{
+  height:1450px;
+  width: 360px;
+  margin: 10px;
+  background-color: pink;
+  position: relative;
+}
+.Chicago{
+  background-image: url(https://www.objetconnecte.net/wp-content/uploads/2016/02/chicago-dusk-725x375.jpg);
+  background-size: auto;
+  margin: 5px;
+  margin-top: 5px
+  width: 350px;
+  height: 350px;
+  background-color: yellow;
+  text-decoration-color: white;
+  text-align: center;
+}
+.Moscow{
+  background-image: url(https://media.tacdn.com/media/attractions-splice-spp-674x446/07/01/29/16.jpg);
+  background-size: 150%;
+  background-repeat: no-repeat;
+  margin: 5px;
+  margin-top: 5px
+  width: 350px;
+  height: 350px;
+  background-color: yellow;
+  text-align: center;
+}
+.Paris{
+  background-image: url(http://1.bp.blogspot.com/-pvtXgeafeIM/UQgNer8SWeI/AAAAAAAAjq8/Uc8kd039seU/s1600/eiffil-tower-eiffel-paris-france-park-cities-269184.jpg);
+  background-size: 150%;
+  background-repeat: no-repeat;
+  margin: 5px;
+  margin-top: 5px
+  width: 350px;
+  height: 350px;
+  background-color: yellow;
+  text-align: center;
+}
+.Milano{
+  background-image: url(https://www.flawlessmilano.com/wp-content/uploads/2017/10/duomo-milano-cover.jpg?x53037);
+  background-size: 150%;
+  background-repeat: no-repeat;
+  margin: 5px;
+  margin-top: 5px
+  width: 350px;
+  height: 350px;
+  background-color: yellow;
+  text-align: center;
+}
+.page h1{
+  text-decoration: underline;
+  text-align: 50%;
+  text-align-last: inherit;
+  color: white;
+  padding-top: 50%;
+}
